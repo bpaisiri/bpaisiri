@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Aisiri B P</h1>
 <h3 align="center">AI & Computer Vision Enthusiast, Research Intern, Building Intelligent System</h3>
